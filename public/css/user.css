@@ -1,0 +1,37 @@
+img {
+    border-radius: 50px;
+    border: 1px solid grey;
+    float:left;
+    margin: 50px;
+}
+
+.info {
+    color:grey;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+h2 {
+    color: brown;
+    font-family: serif;
+}
+
+.education {
+    color: brown;
+    font-family: serif;
+    font-size: 15px;
+    margin-left: 50px;
+    }
+
+.skill {
+    color:brown;
+    font-family: serif;
+    font-size: 15px;
+}
+
+h3 {
+    color:grey;
+    font-size: 15px;
+    font-family: serif;
+    margin-left: 200px;
+}

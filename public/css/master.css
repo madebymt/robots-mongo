@@ -1,0 +1,26 @@
+body {
+
+
+}
+.result {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.show {
+    border: 1px solid lightgrey;
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+}
+
+.job {
+    color:red;
+}
